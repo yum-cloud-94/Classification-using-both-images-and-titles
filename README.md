@@ -1,4 +1,4 @@
-# Classification model using both images and text data.
+# Classification model for Youtube category using both images and text data.
 
 : For classifying categories which video's are actually in, used both 'thumbnail images' and 'video's titles'
 
